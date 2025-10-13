@@ -1,0 +1,27 @@
+{
+  "name": "nailus.icon",
+  "version": "1.0.0",
+  "description": "Instant on-demand atomic svg generator engine.",
+  "keywords": [
+    "nailusIcons",
+    "icons",
+    "bootstrap-icons",
+    "fontawesome",
+    "heroicons"
+  ],
+  "homepage": "https://github.com/nailuslabs/nailus.icon#readme",
+  "bugs": {
+    "url": "https://github.com/nailuslabs/nailus.icon/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nailuslabs/nailus.icon.git"
+  },
+  "license": "MIT",
+  "author": "Naïloth Esdras Nsounda Nsilulu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
